@@ -1,7 +1,7 @@
 # Jeu d'Echec
 
 Jeu d'échec en python fait en binôme en terminale NSI.
-
+Portfolio : https://www.canva.com/design/DAF9yjveNb8/zjI7rw-ger89OFoNyN4zcA/edit
 
 ## Installation
 
