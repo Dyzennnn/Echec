@@ -1,6 +1,6 @@
 # Jeu d'Echec
 
-Jeu d'échec en python fait en binôme en terminal NSI.
+Jeu d'échec en python fait en binôme en terminale NSI.
 
 
 ## Installation
